@@ -19,8 +19,11 @@ Step 1: Open the control Panel on Windows and click on advanced Settings.
 Step 2: On next interface we will be able to see Inbound and Outbound Rules and we have to work on it.
 
 ![Upload 4](https://github.com/user-attachments/assets/70f1234a-45fd-4724-8663-fbc0531337e4)
+
 *Outbound Rules: If we don't want any Malicious activity to happen to our system from our end we can use Inbound connection.
+
 *Inbound Rules: If we don't want any Malicious activity to happen to our system from any Incoming Connections we can use Outbound connections.
+
 Step 3: Configuring the Outbound Connection to block a Google chrome browser.
 Step 4: Right click on Outbound Rules and click on new rules.
 Step 5: We can block Program and Port.
@@ -42,4 +45,5 @@ Step 9: Enter the Name and description and finish the process the Connection to 
 
 
 
-# Potential Risks Without Firewall: Without a firewall, devices and networks become vulnerable to various cyber threats, including malware, unauthorized access, and data breaches. This can lead to data loss, financial fraud, identity theft, and system damage. 
+# Potential Risks Without Firewall: 
+Without a firewall, devices and networks become vulnerable to various cyber threats, including malware, unauthorized access, and data breaches. This can lead to data loss, financial fraud, identity theft, and system damage. 
