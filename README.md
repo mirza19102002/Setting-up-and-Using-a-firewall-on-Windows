@@ -27,12 +27,15 @@ Step 5: We can block Program and Port.
 Step 6: For Blocking a Port we need a Authorized Port number to Block as TCP or UDP I am going through Port.
 
 ![Upload 5](https://github.com/user-attachments/assets/4123bb0f-0991-4c74-b4d8-1c476c38c496)
+
 Step 7: Check the Port and click Next by entering the TCP port Number i will be able to block the connection on my browser.
 
 ![uPLOAD 6](https://github.com/user-attachments/assets/129bb710-7acd-496b-85a0-053c95bd9f19)
+
 Step 8: Apply the Rule to Domain, Private or Public and click on next.
 
 ![Upload 7](https://github.com/user-attachments/assets/89b9d195-8e78-41f1-b06e-a069c7c54d57)
+
 Step 9: Enter the Name and description and finish the process the Connection to the specific port will be blocked.
 
 ![Upload 8](https://github.com/user-attachments/assets/ed0b70b4-b864-47dc-b16b-12bd61d473b7)
